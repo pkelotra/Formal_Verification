@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Windows ADS files
+*:Zone.Identifier
